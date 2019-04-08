@@ -14,6 +14,7 @@
 		6BB4AB4E1B7A5D4200967615 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BB4AB4C1B7A5D4200967615 /* LaunchScreen.storyboard */; };
 		6BB4AB591B7A5D4200967615 /* WorldTrotterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB4AB581B7A5D4200967615 /* WorldTrotterTests.swift */; };
 		6BB4AB641B7A5D4200967615 /* WorldTrotterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB4AB631B7A5D4200967615 /* WorldTrotterUITests.swift */; };
+		D1B24C52225BB44000E1730B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D1B24C51225BB44000E1730B /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		6BB4AB5F1B7A5D4200967615 /* WorldTrotterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WorldTrotterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BB4AB631B7A5D4200967615 /* WorldTrotterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldTrotterUITests.swift; sourceTree = "<group>"; };
 		6BB4AB651B7A5D4200967615 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1B24C51225BB44000E1730B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		6BB4AB371B7A5D4200967615 = {
 			isa = PBXGroup;
 			children = (
+				D1B24C51225BB44000E1730B /* .gitignore */,
 				6BB4AB421B7A5D4200967615 /* WorldTrotter */,
 				6BB4AB571B7A5D4200967615 /* WorldTrotterTests */,
 				6BB4AB621B7A5D4200967615 /* WorldTrotterUITests */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1B24C52225BB44000E1730B /* .gitignore in Resources */,
 				6BB4AB4E1B7A5D4200967615 /* LaunchScreen.storyboard in Resources */,
 				6BB4AB4B1B7A5D4200967615 /* Assets.xcassets in Resources */,
 				6BB4AB491B7A5D4200967615 /* Main.storyboard in Resources */,
